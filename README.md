@@ -1,2 +1,2 @@
 # Ebook_Web_App
-Java project 
+ Advance Java Web Project Using Servlet, JSP & MySql
